@@ -9,3 +9,5 @@ USB B Micro Cover/Support(Needed): https://www.digikey.ca/product-detail/en/ZX20
 And of course, the PCB. 
 
 If ordering boards, please make sure your manufacturer can do slotted holes(for the USB Micro).
+
+Get a completed version at my Tindie store here: https://www.tindie.com/products/idlehandsdev/usb-otg-flip-adapter-for-raspberry-pi-zero/
